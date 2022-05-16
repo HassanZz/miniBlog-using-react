@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "lorem ipsum....",
+      "author": "hassan",
+      "id": 1
+    },
+    {
+      "title": "Welcome to my website",
+      "body": "lorem ipsum....",
+      "author": "eli",
+      "id": 2
+    }
+  ]
+}
